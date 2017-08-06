@@ -1,7 +1,7 @@
 # Abrin Cloud messaging nodejs SDK
 
 [![Version npm](https://img.shields.io/npm/v/abrin.svg)](https://www.npmjs.com/package/abrin)
-ws is a simple to use, blazing fast, and thoroughly tested Abrin client implementation.
+is a simple to use, blazing fast, and thoroughly tested Abrin client implementation.
 
 **Note**: This module does not work in the browser. 
 
