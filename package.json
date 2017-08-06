@@ -1,0 +1,22 @@
+{
+  "name": "abrin",
+  "version": "1.0.1",
+  "description": "Node-js SDK for Abrin real-time messaging platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Abrin",
+    "AbrinSDK"
+  ],
+  "author": "abrin.ir",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "navigator": "^1.0.1",
+    "node-persist": "^2.1.0",
+    "request": "^2.81.0",
+    "sys": "0.0.1",
+    "ws": "^3.1.0"
+  }
+}
